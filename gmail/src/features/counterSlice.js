@@ -5,7 +5,7 @@ export const counterSlice = createSlice({
   name: 'counter',
   initialState: {
     value: 0,
-  }
+  },
   // The `reducers` field lets us define reducers and generate associated actions
   reducers: {
     increment: (state) => {
