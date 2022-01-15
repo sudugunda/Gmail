@@ -5,6 +5,7 @@ import Sidebar from './Sidebar';
 import { BrowserRouter as Router, Routes, Route, Link } from "react-router-dom";
 import Mail from './Mail';
 import EmailList from './EmailList';
+import Demo from './Demo';
 
 function App() {
   return (
